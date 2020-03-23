@@ -109,6 +109,7 @@ A curated list of COVID-19 resources.
 
 * [Act Now](https://covidactnow.org/) - Point of no return for mitigation action
 * [COVID-19.direct](https://covid-19.direct/) - County-by-county charts and statistics
+* [Growth Tracking](https://twitter.com/isfBob) - State-by-state growth tracking (Twitter with updates)
 * [Map and Case Count](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html) - Tracking by New York Times
 
 ### US Volunteering
