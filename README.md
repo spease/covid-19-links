@@ -28,13 +28,13 @@ A curated list of COVID-19 resources.
 ### General
 
 * [WHO Disease Info](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) - World Health Organization page for COVID-19
-* [Resource Center](https://coronavirus.jhu.edu/) - John Hopkins COVID-19 resources
+* [Resource Center](https://coronavirus.jhu.edu/) - Johns Hopkins COVID-19 resources
 
 ### Analysis
 
 * [COVID-19 Testing](https://en.wikipedia.org/wiki/COVID-19_testing) - COVID-19 testing rates and strategies
 * [Drugs that Might Lesson Its Power](https://www.economist.com/briefing/2020/03/12/understanding-sars-cov-2-and-the-drugs-that-might-lessen-its-power) - Exploration of pharmaceutial interventions by the Economist
-* [Event 201](http://www.centerforhealthsecurity.org/event201/scenario.html) - John Hopkins simulation of a similar pandemic
+* [Event 201](http://www.centerforhealthsecurity.org/event201/scenario.html) - Johns Hopkins simulation of a similar pandemic
 * [Geographical Spread](https://dx.doi.org/10.2139/ssrn.3550308) - Analysis of effect of Temperature, Humidity, Latitude on COVID-19 spread
 * [Growth Rate Analysis](https://www.facebook.com/micah.siegel/posts/10105283270665033) - Growth by Country by Prof. Micah Siegel
 * [The Hammer and the Dance](https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56) - Emphasizing the need for social distancing
@@ -56,7 +56,7 @@ A curated list of COVID-19 resources.
 * [Flatten the Curve Simulator](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/) - Simulation of how social distancing works
 * [Growth Projections](http://nrg.cs.ucl.ac.uk/mjh/covid19/) - Country tracking by Mark J Handley
 * [Infographic Datapack](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/) - Charts and Facts on COVID-19
-* [Map](https://coronavirus.jhu.edu/map.html) - John Hopkins COVID-19 hotspot map
+* [Map](https://coronavirus.jhu.edu/map.html) - Johns Hopkins COVID-19 hotspot map
 * [Symptoms, Spread, Death Rate](https://www.businessinsider.com/coronavirus-in-charts-covid-19-symptoms-spread-deaths-warnings-2020-2#the-coronavirus-also-poses-a-higher-risk-to-people-with-pre-existing-health-conditions-such-as-diabetes-heart-disease-and-high-blood-pressure-10) - Various charts by Business Insider
 * [Test Rates](https://www.businessinsider.com/coronavirus-testing-covid-19-tests-per-capita-chart-us-behind-2020-3) - Early analysis of test rates by Business Insider
 * [Worldometer](https://www.worldometers.info/coronavirus/) - Country-by-country statistics on COVID-19
@@ -84,7 +84,7 @@ A curated list of COVID-19 resources.
 
 ### US Analysis
 
-* [Ventilator Stockpiling and Availability in the US](http://www.centerforhealthsecurity.org/resources/COVID-19/200214-VentilatorAvailability-factsheet.pdf) - By John Hopkins
+* [Ventilator Stockpiling and Availability in the US](http://www.centerforhealthsecurity.org/resources/COVID-19/200214-VentilatorAvailability-factsheet.pdf) - By Johns Hopkins
 
 ### US Clinical Trials
 
