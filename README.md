@@ -1,7 +1,3 @@
-# COVID-19 Links
-
-A curated list of COVID-19 resources.
-
 ## Table of contents
 
   - [All Countries](#all-countries)
