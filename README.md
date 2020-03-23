@@ -106,6 +106,7 @@ A curated list of COVID-19 resources.
 
 ### US Visualization
 
+* [Act Now](https://covidactnow.org/) - Point of no return for mitigation action
 * [COVID-19.direct](https://covid-19.direct/) - County-by-county charts and statistics
 * [Map and Case Count](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html) - Tracking by New York Times
 
