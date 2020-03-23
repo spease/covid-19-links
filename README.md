@@ -53,6 +53,7 @@ A curated list of COVID-19 resources.
 ### Visualization
 
 * [3 Charts that Changed Coronavirus Policy](https://www.weforum.org/agenda/2020/03/3-charts-that-changed-coronavirus-policy-in-the-uk-and-us/) - Overview of Imperial College report
+* [Corona.help](https://corona.help/) - Dashboard for global status of COVID-19
 * [Flatten the Curve Simulator](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/) - Simulation of how social distancing works
 * [Growth Projections](http://nrg.cs.ucl.ac.uk/mjh/covid19/) - Country tracking by Mark J Handley
 * [Infographic Datapack](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/) - Charts and Facts on COVID-19
