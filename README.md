@@ -33,7 +33,7 @@ A curated list of COVID-19 resources.
 ### Analysis
 
 * [COVID-19 Testing](https://en.wikipedia.org/wiki/COVID-19_testing) - COVID-19 testing rates and strategies
-* [Drugs that Might Lesson Its Power](https://www.economist.com/briefing/2020/03/12/understanding-sars-cov-2-and-the-drugs-that-might-lessen-its-power) - Exploration of pharmaceutial interventions by the Economist
+* [Drugs that Might Lessen Its Power](https://www.economist.com/briefing/2020/03/12/understanding-sars-cov-2-and-the-drugs-that-might-lessen-its-power) - Exploration of pharmaceutial interventions by the Economist
 * [Event 201](http://www.centerforhealthsecurity.org/event201/scenario.html) - Johns Hopkins simulation of a similar pandemic
 * [Geographical Spread](https://dx.doi.org/10.2139/ssrn.3550308) - Analysis of effect of Temperature, Humidity, Latitude on COVID-19 spread
 * [Growth Rate Analysis](https://www.facebook.com/micah.siegel/posts/10105283270665033) - Growth by Country by Prof. Micah Siegel
