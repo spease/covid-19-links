@@ -4,6 +4,19 @@
 @import "{{ site.theme }}";
 
 section {
+  margin-top: 0px;
+
+  #title {
+    margin-bottom: 0px;
+    text-align: center;
+
+    .credits {
+      &.center {
+        text-align: center;
+      }
+    }
+  }
+
   #footer {
     border: 0;
     outline: none;
